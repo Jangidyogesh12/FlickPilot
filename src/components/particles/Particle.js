@@ -1,4 +1,3 @@
-import "./style.css";
 import React from "react";
 import { useCallback } from "react";
 import Particles from "react-tsparticles";

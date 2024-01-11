@@ -5,10 +5,12 @@ import logo from "./Logo.png";
 export default function Navbar() {
   return (
     <div className="Navbar">
-      <img src={logo} className="logo" />
+      <img src={logo} className="logo" alt="" />
       <ul className="Navbar_content">
         <li className="nav_list">
-          <a href="https://github.com/Jangidyogesh12/FlickPilot_Source">Source Code</a>
+          <a href="https://github.com/Jangidyogesh12/FlickPilot_Source">
+            Source Code
+          </a>
         </li>
       </ul>
     </div>

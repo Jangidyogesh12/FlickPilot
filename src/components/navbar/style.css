@@ -1,12 +1,13 @@
 @import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+
 .Navbar {
   display: flex;
   position: absolute;
   justify-content: space-between;
+  align-items: center; /* Align items vertically */
   top: 0;
   width: 100%;
   height: 80px;
-  align-content: end;
 }
 
 a {
@@ -37,5 +38,7 @@ a {
 }
 
 .logo {
-  left: 50px;
+  margin-left: 20px; /* Adjust margin as needed */
+  height: 80px;
+  width: auto;
 }
