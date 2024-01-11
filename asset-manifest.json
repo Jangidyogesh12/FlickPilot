@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FlickPilot/static/css/main.4f5cf215.css",
+    "main.js": "/FlickPilot/static/js/main.32cae6a9.js",
+    "static/js/787.a4b45000.chunk.js": "/FlickPilot/static/js/787.a4b45000.chunk.js",
+    "index.html": "/FlickPilot/index.html",
+    "main.4f5cf215.css.map": "/FlickPilot/static/css/main.4f5cf215.css.map",
+    "main.32cae6a9.js.map": "/FlickPilot/static/js/main.32cae6a9.js.map",
+    "787.a4b45000.chunk.js.map": "/FlickPilot/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f5cf215.css",
+    "static/js/main.32cae6a9.js"
+  ]
+}
