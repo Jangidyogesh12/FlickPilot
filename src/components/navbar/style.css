@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+.Navbar {
+  display: flex;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 80px;
+  align-content: end;
+}
+
+a {
+  font-family: Indie Flower;
+  font-weight: bold;
+  color: #d6dfe4;
+  text-decoration: none;
+}
+
+.nav_list {
+  line-height: 40px;
+  margin-right: 1.6rem;
+  font-size: 1.6rem;
+}
+
+.nav_list::after {
+  content: " ";
+  display: block;
+  height: 3px;
+  width: 0px;
+  background: transparent;
+  transition: all 0.5s ease;
+}
+
+.nav_list:hover::after {
+  background-color: #00a9ff;
+  width: 100%;
+}
+
+.Navbar_content {
+  margin-left: 750px;
+}
+
+.logo {
+  left: 50px;
+}
