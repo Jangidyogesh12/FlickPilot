@@ -33,7 +33,7 @@ a {
 }
 
 .nav_list:hover::after {
-  background-color: #00a9ff;
+  background-color: white;
   width: 100%;
 }
 
