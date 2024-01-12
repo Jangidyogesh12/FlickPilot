@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/FlickPilot/static/css/main.6a74c00c.css",
+    "main.css": "/FlickPilot/static/css/main.a79b1312.css",
     "main.js": "/FlickPilot/static/js/main.22d24524.js",
     "static/js/787.a4b45000.chunk.js": "/FlickPilot/static/js/787.a4b45000.chunk.js",
     "static/media/bg_img3.jpg": "/FlickPilot/static/media/bg_img3.07b8ae66ea1a7bc7cd3a.jpg",
@@ -10,12 +10,12 @@
     "static/media/bg_img2.avif": "/FlickPilot/static/media/bg_img2.76631adc12de65e5c17e.avif",
     "static/media/bg_img5.avif": "/FlickPilot/static/media/bg_img5.4e58933f51f6a035cf80.avif",
     "index.html": "/FlickPilot/index.html",
-    "main.6a74c00c.css.map": "/FlickPilot/static/css/main.6a74c00c.css.map",
+    "main.a79b1312.css.map": "/FlickPilot/static/css/main.a79b1312.css.map",
     "main.22d24524.js.map": "/FlickPilot/static/js/main.22d24524.js.map",
     "787.a4b45000.chunk.js.map": "/FlickPilot/static/js/787.a4b45000.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a74c00c.css",
+    "static/css/main.a79b1312.css",
     "static/js/main.22d24524.js"
   ]
 }
