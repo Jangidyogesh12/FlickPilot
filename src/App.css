@@ -1,7 +1,23 @@
-.info {
+.Block {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-content: center;
   height: 100vh;
+}
+
+@media only screen and (max-width: 768px) {
+  .info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    background: linear-gradient(
+      to bottom,
+      rgba(39, 103, 177, 0.4),
+      rgba(65, 59, 59, 0.7),
+      rgba(39, 103, 177, 0.4)
+    );
+    height: 50%;
+  }
 }

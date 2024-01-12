@@ -23,8 +23,9 @@ input {
 .search_block {
   display: flex;
   justify-content: center;
-  margin: 50px;
+  margin: 40px;
   padding: 5px;
+  margin-bottom: 80px;
 }
 
 .container {

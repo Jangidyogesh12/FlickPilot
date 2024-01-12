@@ -10,9 +10,11 @@ function App() {
     <div className="App">
       <Particle />
       <Navbar />
-      <div className="info">
-        <Home />
-        <Recommend />
+      <div className="Block">
+        <div className="info">
+          <Home />
+          <Recommend />
+        </div>
       </div>
       <Footer />
     </div>
