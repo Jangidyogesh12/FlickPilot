@@ -5,7 +5,7 @@ export default function Home() {
       <div className="home">
         <h1>FlickPilot</h1>
         <p>
-          This is your personel movie rocomender. It recomends you movies
+          This is your personal movie rocommender. It recommends you movies
           according to your interest
         </p>
       </div>
